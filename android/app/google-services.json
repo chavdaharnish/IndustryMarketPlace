@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014546142473",
+    "firebase_url": "https://industrymarketplace-6bb1f-default-rtdb.firebaseio.com",
+    "project_id": "industrymarketplace-6bb1f",
+    "storage_bucket": "industrymarketplace-6bb1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014546142473:android:08b23b277cc272687aefd8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014546142473-7iufqd06c90j5o8n473o5rkng7c0ruup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_course",
+            "certificate_hash": "3fe6fb695d5a5d07bce2cb265f2cd6723060cca5"
+          }
+        },
+        {
+          "client_id": "1014546142473-p0lbj0urjgb4luts9c6kldalqkmalf2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWewVQBwJQaDUE99nWZOeOWG0u6rO1fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014546142473-p0lbj0urjgb4luts9c6kldalqkmalf2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

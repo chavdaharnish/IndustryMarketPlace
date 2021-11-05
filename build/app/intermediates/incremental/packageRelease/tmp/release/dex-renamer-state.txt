@@ -1,0 +1,4 @@
+#Wed Sep 15 23:12:51 IST 2021
+base.0=D\:\\harnish_charusat\\Sem-7\\SGP\\flutter_course\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
