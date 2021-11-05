@@ -3,7 +3,6 @@ import 'package:flutter_course/app/common_widgets/profile_menu.dart';
 import 'package:flutter_course/app/home/Models/product.dart';
 import 'package:flutter_course/app/home/product/home_page.dart';
 //import 'package:flutter_course/app/ui/screens/home.dart';
-import 'catagory.dart';
 import 'package:flutter_course/app/dashboard/localshops.dart';
 //import 'logout.dart';
 //import 'machinery.dart';
